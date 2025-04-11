@@ -4,6 +4,7 @@
 Traditional parking systems are inefficient and time-consuming. Drivers often waste time looking for parking spots, leading to congestion. This project addresses the need for an innovative, automated system that can detect parking availability in real-time and control gate access accordingly.
 
 ** Objectives**
+
 Automatically detect parking availability.
 
 Visually indicate spot status using LEDs.
@@ -31,6 +32,7 @@ Buzzer × 1
 
 
  **System Workflow**
+ 
 Ultrasonic sensors measure the distance to detect if a parking spot is occupied.
 
 Red/Green LEDs indicate whether each spot is occupied or available.
@@ -44,15 +46,18 @@ If full, and a car is detected, the buzzer beeps and the gate remains closed.
 A 16x2 LCD shows the status of P1, P2, and P3 (OC/AV) and the overall space status (S: AVAIL/FULL).
 
 **3d of our project**
+
 click the link to view the 3d on Tinkercad
 https://www.tinkercad.com/things/gTVLTXPVkVn-microp-project-work/edit?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=zp6yW-1iNs82SX-mvh7fa3QRHPzkHazjYNuayRDny78
 
 **How to Run**
+
 Click on the link to the simulation on Tinkercad
 https://www.tinkercad.com/things/7KfTJpvJWCn-microprocessor-project-workgroup-3/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=2-_Wi7KoNrW3TUWTM2wMqjLaOZicg9HVJh4RxxHhxGg
 
 
 **Files Included**
+
 smart_parking_system.ino – Source code
 
 Smart_Parking_System_Presentation.pptx – Final project slides
@@ -67,6 +72,7 @@ README.md – Project documentation
 
 
 **Future Improvements**
+
 Add mobile app integration for remote monitoring.
 
 Use RFID/NFC for automated vehicle identification.
