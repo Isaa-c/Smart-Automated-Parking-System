@@ -1,7 +1,6 @@
-**Smart Parking System using Ultrasonic Sensors**
-This project presents a Smart Automated Parking System designed using Arduino Uno and simulated on Tinkercad/Wokwi. It detects the availability of parking spots using ultrasonic sensors, displays the status on an LCD screen, controls a servo motor gate, and uses a buzzer for alerts.
+**Smart Parking System using Ultrasonic Sensors**:This project presents a Smart Automated Parking System designed using Arduino Uno and simulated on Tinkercad/Wokwi. It detects the availability of parking spots using ultrasonic sensors, displays the status on an LCD screen, controls a servo motor gate, and uses a buzzer for alerts.
 
-**Problem Statement**
+**Problem Statement:**
 Traditional parking systems are inefficient and time-consuming. Drivers often waste time looking for parking spots, leading to congestion. This project addresses the need for an innovative, automated system that can detect parking availability in real-time and control gate access accordingly.
 
 ** Objectives**
